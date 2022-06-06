@@ -1,12 +1,17 @@
 body {
     background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     }
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 .post {
     background-color: white;
-    height: 700px;
+    height: 670px;
     width: 500px;
 }
 i {
